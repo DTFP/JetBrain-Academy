@@ -1,4 +1,4 @@
-# JetBrain-Academy
+# JetBrains-Academy
 Study projects
 
 
