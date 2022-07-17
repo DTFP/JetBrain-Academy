@@ -9,3 +9,5 @@ Rules: you enter the total number of sticks, choose who goes first. You can remo
 A funny calculator
 3. Tictactoe.py
 A simple tictactoe game for 2 users.
+4. hangman.py
+A simple hangman game
