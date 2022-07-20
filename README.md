@@ -11,3 +11,5 @@ A funny calculator
 A simple tictactoe game for 2 users.
 4. hangman.py
 A simple hangman game
+5. dominoes.py
+A simple domino game with a bot
