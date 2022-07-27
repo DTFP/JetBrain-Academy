@@ -13,3 +13,5 @@ A simple tictactoe game for 2 users.
 A simple hangman game
 5. dominoes.py
 A simple domino game with a bot
+6. flashcards.py
+A simple program for learning terms
