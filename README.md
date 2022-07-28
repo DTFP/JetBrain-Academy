@@ -17,3 +17,5 @@ A simple domino game with a bot
 A simple program for learning terms
 7. cconverter.py
 A simple money converter with requests to the site
+8. coffee_machine.py
+A simple representation of coffee machine work
