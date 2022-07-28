@@ -15,3 +15,5 @@ A simple hangman game
 A simple domino game with a bot
 6. flashcards.py
 A simple program for learning terms
+7. cconverter.py
+A simple money converter with requests to the site
