@@ -21,3 +21,5 @@ A simple money converter with requests to the site
 A simple representation of coffee machine work
 9. billsplitter.py
 A simple billsplitter
+10. arithmetic.py
+A simple Arithmetic Exam Application
