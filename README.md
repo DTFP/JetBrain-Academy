@@ -19,3 +19,5 @@ A simple program for learning terms
 A simple money converter with requests to the site
 8. coffee_machine.py
 A simple representation of coffee machine work
+9. billsplitter.py
+A simple billsplitter
