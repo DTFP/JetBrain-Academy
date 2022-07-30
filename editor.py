@@ -3,7 +3,7 @@ class MarkdownEditor:
     def __init__(self):
         self.formatters = ['plain', 'bold', 'italic', 'header', 'link', 'inline-code', 'new-line',
                            'ordered-list', 'unordered-list', '!done']
-        self.user_help = 'Available formatters: plain bold italic header link inline-code new-line'
+        self.user_help = 'Available formatters: plain bold italic header link inline-code new-line, 'ordered-list', 'unordered-list', '!done''
         self.output = []
 
     def plain(self):
